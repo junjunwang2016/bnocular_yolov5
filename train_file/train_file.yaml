@@ -1,0 +1,11 @@
+train: /data/wangjunjun/RuiChuang/Data/Train/train/vis/
+train2: /data/wangjunjun/RuiChuang/Data/Train/train/ir/
+val: /data/wangjunjun/RuiChuang/Data/Train/train/vis/
+val2: /data/wangjunjun/RuiChuang/Data/Train/train/ir/
+test: /data/wangjunjun/RuiChuang/Data/Test/val2/vis/
+test2: /data/wangjunjun/RuiChuang/Data/Test/val2/ir/
+# number of classes
+nc: 5
+
+# class names
+names: [ 'person', 'cyclist','car', 'truck', 'bus']
